@@ -1,1 +1,5 @@
 I believe it draws 15W or less at 12V while onroad.  Less then an amp offroad, I think in the ballpark of 100-300mA if I recall 
+
+Using rudimentary P=I*V we get a ballpark operation of 1.25A at load. More than enough distributed over 2 sets of pogo pins. 
+
+Pogo pin specs dictate a maximum current rating of 6.5A @ 30C de-rated maximum (20%) of 5.2A. We are well under spec, hooray!
