@@ -36,3 +36,7 @@ Preliminary BOM:
 - [ ] Magnet strength
 - [ ] Connection durability 
 - [ ] Heat durability 
+
+## Specifications Pertaining to the Project
+- Average Power Draw: ~11W over 20min
+- Unit Weight: 311g (11oz)
