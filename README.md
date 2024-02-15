@@ -15,29 +15,36 @@ Preliminary BOM:
 | Pogo Pin  | 0906-4-15-20-75-14-11-0  | 14 |
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
-| K&J Magnets | [D73-N52](https://www.kjmagnetics.com/proddetail.asp?prod=D73-N52) (7/16"x3/16") | 4 |
+| K&J Magnets | Will be testing 3 different sizes. | 4 |
 
 - [x] Pogo Pins
 - [x] USB-C Connector
-- [x] Magnets
-- [ ] Adhesive (Likely to be VHB from 3M)
+- [ ] Magnets
+- [ ] Adhesive
 
 ### Board Layout
 - [x] General layout
 - [x] Trace routing
-- [ ] Trace power delivery calculations
+- [ ] Trace power calculations - Data analysis pending (2/15/24)
+- [ ] PCB refinement 
+- [ ] PCB Finalization
+- [ ] PCB Ordered
 
 ### C3X Windshield Mount
 - [x] PCB imported and modeled.
-- [ ] Male mount modeled
-- [ ] Female mount modeled
+- [x] Male mount modeled
+- [x] Female mount modeled
+- [x] Mock-up mount printed.
+- [ ] Mount refinement - Started 2/14/24
+- [ ] Mock-up two printed
+- [ ] Secondary refinement
+- [ ] Initial finalization
 
 ### Field Testing
 - [ ] Endurance testing (50 hours usage)
-- [ ] Magnet strength
-- [ ] Connection durability 
-- [ ] Heat durability 
+- [ ] Vibration testing
+- [ ] Heat testing (7 day constant connectivity)
 
 ## Specifications Pertaining to the Project
-- Average Power Draw: ~11W over 20min
-- Unit Weight: 311g (11oz)
+- Comma3X Weight: 311g (11oz)
+- Power Usage: See spreadsheets/csv in the power_data folder!
