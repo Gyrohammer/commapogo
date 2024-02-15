@@ -13,7 +13,7 @@ I recently have come across a project for the Comma3X that utilizes pogo pins fo
 Preliminary BOM: 
 | Colloqiual Name| Part No.    | Quantity | 
 | --------- | -------- | ------- | 
-| Pogo Pin  | 0906-4-15-20-75-14-11-0  | 14 |
+| Pogo Pin  | 2906-4-15-20-75-14-11-0  | 14 |
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
 | K&J Magnets | Will be testing 3 different sizes. | 4 |
