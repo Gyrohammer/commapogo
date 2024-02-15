@@ -48,4 +48,4 @@ Preliminary BOM:
 
 ## Specifications Pertaining to the Project
 - Comma3X Weight: 311g (11oz)
-- Power Usage: See spreadsheets/csv in the power_data folder!
+- Power Usage: See the [summary spreadsheet](/power_data/summary.xlsx) for this data
