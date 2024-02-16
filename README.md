@@ -16,27 +16,30 @@ Preliminary BOM:
 | Pogo Pin  | 2906-4-15-20-75-14-11-0  | 14 |
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
-| K&J Magnets | Will be testing 3 different sizes. | 4 |
+| K&J Magnets | n/a | 4 |
+|3M Adhesive |||
 
 - [x] Pogo Pins
 - [x] USB-C Connector
 - [ ] Magnets
-- [ ] Adhesive
+    - Testing four options. - 2/16/24
+- [x] Adhesive
 
 ### Board Layout
 - [x] General layout
 - [x] Trace routing
-- [ ] Trace power calculations - Data analysis pending (2/15/24)
-- [ ] PCB refinement 
-- [ ] PCB Finalization
-- [ ] PCB Ordered
+- [x] Trace power calculations - Data analysis pending (2/15/24)
+- [x] PCB refinement 
+- [x] PCB Finalization
+- [x] PCB Ordered
 
 ### C3X Windshield Mount
 - [x] PCB imported and modeled.
 - [x] Male mount modeled
 - [x] Female mount modeled
 - [x] Mock-up mount printed.
-- [ ] Mount refinement - Started 2/14/24
+- [x] Mount refinement
+- [ ] Test bed mounts printed - 2/16/24
 - [ ] Mock-up two printed
 - [ ] Secondary refinement
 - [ ] Initial finalization
@@ -48,4 +51,4 @@ Preliminary BOM:
 
 ## Specifications Pertaining to the Project
 - Comma3X Weight: 311g (11oz)
-- Power Usage: See the [summary spreadsheet](/power_data/summary.xlsx) for this data
+- Power Usage: See the [summary spreadsheet](/power_data/summary.xlsx) for this data.
