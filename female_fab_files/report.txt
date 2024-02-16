@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-F_Cu.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-B_Cu.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-F_Paste.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-B_Paste.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-F_Mask.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-B_Mask.gbr'.
+Plotted to 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\MaxYoung\OneDrive - Tiger Optics\Documents\commapogo\female_fab_files\female_connector-job.gbrjob'.
+Info: Done.

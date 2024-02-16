@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2024-02-15T12:52:28-05:00"
+    "CreationDate": "2024-02-16T09:22:18-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "SaberCord_Copy_Male",
-      "GUID": "53616265-7243-46f7-9264-5f436f70795f",
+      "Name": "female_connector",
+      "GUID": "66656d61-6c65-45f6-936f-6e6e6563746f",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "SaberCord_Copy_Male-F_Cu.gbr",
+      "Path": "female_connector-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-B_Cu.gbr",
+      "Path": "female_connector-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-F_Paste.gbr",
+      "Path": "female_connector-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-B_Paste.gbr",
+      "Path": "female_connector-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-F_Silkscreen.gbr",
+      "Path": "female_connector-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-B_Silkscreen.gbr",
+      "Path": "female_connector-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SaberCord_Copy_Male-F_Mask.gbr",
+      "Path": "female_connector-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SaberCord_Copy_Male-B_Mask.gbr",
+      "Path": "female_connector-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SaberCord_Copy_Male-Edge_Cuts.gbr",
+      "Path": "female_connector-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
