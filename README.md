@@ -16,14 +16,14 @@ Preliminary BOM:
 | Pogo Pin  | 2906-4-15-20-75-14-11-0  | 14 |
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
-| K&J Magnets | n/a | 4 |
-|3M Adhesive |||
+| K&J Magnets | Testing | 4 |
+|3M Adhesive | Undecided | ~100mm<sup>2</sup> (~1.5in<sup>2</sup>)|
 
 - [x] Pogo Pins
 - [x] USB-C Connector
 - [ ] Magnets
     - Testing four options. - 2/16/24
-- [x] Adhesive
+- [ ] Adhesive
 
 ### Board Layout
 - [x] General layout
@@ -39,10 +39,11 @@ Preliminary BOM:
 - [x] Female mount modeled
 - [x] Mock-up mount printed.
 - [x] Mount refinement
-- [ ] Test bed mounts printed - 2/16/24
-- [ ] Mock-up two printed
-- [ ] Secondary refinement
-- [ ] Initial finalization
+- [x] Test-bed mounts printed
+- [ ] Test-beds tested
+- [ ] Final mock-up printed
+- [ ] Final refinement
+- [ ] Production unit trials
 
 ### Field Testing
 - [ ] Endurance testing (50 hours usage)
