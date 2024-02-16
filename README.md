@@ -1,5 +1,5 @@
 # CommaPOGO
-I recently have come across a project for the Comma3X that utilizes pogo pins for the quick disconnect of a comma3x. This is my attempt to create an open source alternative to that mount that is DIY and 3D printable. The original creation is by @cloudj0816 in the [OpenPilot community discord](https://discord.com/invite/avCJxEX). All credit goes to him for this initial idea! He actually sells the devices so be sure to check that out if you would like one! You can find the wait list in the #hw-unofficial channel. 
+I recently have come across a project for the Comma3X that utilizes pogo pins for the quick disconnect of a comma3x. This is my attempt to create an open source alternative to that mount that is DIY and 3D printable. I was inspired after seeing the mount that @cloudj0816 made in the [OpenPilot community discord](https://discord.com/invite/avCJxEX). All credit goes to him for this initial idea! If you'd like to purchase one of his connectors (full CNC metal), you can find the wait list in the #hw-unofficial channel. 
 
 ## Goals:
 - Inexpensive
