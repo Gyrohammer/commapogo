@@ -1,0 +1,3 @@
+.3mm chamfer at top 1mm chamfer bottom 
+
+2x3mm overall
