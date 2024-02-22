@@ -16,7 +16,7 @@ Preliminary BOM:
 | Pogo Pin  | 2906-4-15-20-75-14-11-0  | 14 |
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
-| K&J Magnets | Testing | 4 |
+| K&J Magnets | D83-N52 | 4 |
 |3M Adhesive | Undecided | ~100mm<sup>2</sup> (~1.5in<sup>2</sup>)|
 
 - [x] Pogo Pins
