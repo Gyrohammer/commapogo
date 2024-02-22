@@ -21,9 +21,8 @@ Preliminary BOM:
 
 - [x] Pogo Pins
 - [x] USB-C Connector
-- [ ] Magnets
-    - Testing four options. - 2/16/24
-- [ ] Adhesive
+- [x] Magnets
+- [ ] Adhesive - Order Placed 
 
 ### Board Layout
 - [x] General layout
@@ -31,7 +30,8 @@ Preliminary BOM:
 - [x] Trace power calculations - Data analysis pending (2/15/24)
 - [x] PCB refinement 
 - [x] PCB Finalization
-- [x] PCB Ordered
+- [x] PCB Ordered - Awaiting shipment 
+- [ ] PCB Delivered 
 
 ### C3X Windshield Mount
 - [x] PCB imported and modeled.
@@ -40,8 +40,8 @@ Preliminary BOM:
 - [x] Mock-up mount printed.
 - [x] Mount refinement
 - [x] Test-bed mounts printed
-- [ ] Test-beds tested
-- [ ] Final mock-up printed
+- [x] Test-beds tested
+- [ ] Final mock-up printed - Awaiting pcb fitment 
 - [ ] Final refinement
 - [ ] Production unit trials
 
