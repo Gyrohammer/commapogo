@@ -17,7 +17,7 @@ Preliminary BOM:
 | USB-C Connector | USB4056-03-A | 2 |
 | ASA Filament | n/a | <100g |
 | K&J Magnets | D83-N52 | 4 |
-|3M Adhesive | Undecided | ~100mm<sup>2</sup> (~1.5in<sup>2</sup>)|
+|3M Adhesive | 3M™ VHB™ Tape 5952 | ~100mm<sup>2</sup> (~1.5in<sup>2</sup>)|
 
 - [x] Pogo Pins
 - [x] USB-C Connector
