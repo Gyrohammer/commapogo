@@ -550,6 +550,10 @@
     (stroke (width 0) (type default))
     (uuid 42e71076-a31b-47d5-9358-07658bc8808b)
   )
+  (wire (pts (xy 128.27 101.6) (xy 128.27 111.76))
+    (stroke (width 0) (type default))
+    (uuid 44ee040c-8729-4976-a92e-1c04b508b373)
+  )
   (wire (pts (xy 128.27 78.74) (xy 120.65 78.74))
     (stroke (width 0) (type default))
     (uuid 468ae41d-4ca5-4951-bfe5-7437f6a70f53)
@@ -573,10 +577,6 @@
   (wire (pts (xy 128.27 88.9) (xy 128.27 78.74))
     (stroke (width 0) (type default))
     (uuid 5b5858dd-8ee2-4df0-93ce-f3609e441fa9)
-  )
-  (wire (pts (xy 133.35 101.6) (xy 133.35 116.84))
-    (stroke (width 0) (type default))
-    (uuid 5dbcc656-c883-4175-a33f-9fae9c056769)
   )
   (wire (pts (xy 158.75 105.41) (xy 161.29 105.41))
     (stroke (width 0) (type default))
@@ -602,10 +602,6 @@
     (stroke (width 0) (type default))
     (uuid 7b0352bb-bad3-4f66-ac33-b0392b4aa568)
   )
-  (wire (pts (xy 130.81 101.6) (xy 130.81 114.3))
-    (stroke (width 0) (type default))
-    (uuid 7f7f700f-d251-4668-a8b7-c35922faa4c1)
-  )
   (wire (pts (xy 116.84 102.87) (xy 120.65 102.87))
     (stroke (width 0) (type default))
     (uuid 82ccea32-50af-4f38-ad41-74adff3050f8)
@@ -622,6 +618,14 @@
     (stroke (width 0) (type default))
     (uuid 8ee6edc6-59a5-4dc4-bdf1-acc75ee616dd)
   )
+  (wire (pts (xy 133.35 101.6) (xy 133.35 116.84))
+    (stroke (width 0) (type default))
+    (uuid 906418e6-1836-4300-85ca-0c0e6b1728d3)
+  )
+  (wire (pts (xy 130.81 101.6) (xy 130.81 114.3))
+    (stroke (width 0) (type default))
+    (uuid 9148d761-26b2-4316-bb02-74dd7fe103b1)
+  )
   (wire (pts (xy 158.75 90.17) (xy 161.29 90.17))
     (stroke (width 0) (type default))
     (uuid 9a8040fe-7c99-46ad-bfab-10cacb49dd9a)
@@ -633,10 +637,6 @@
   (wire (pts (xy 173.99 107.95) (xy 176.53 107.95))
     (stroke (width 0) (type default))
     (uuid a0204e12-40df-4861-81b6-72b699905735)
-  )
-  (wire (pts (xy 125.73 101.6) (xy 125.73 109.22))
-    (stroke (width 0) (type default))
-    (uuid a8564db3-2899-4de5-9d98-4e26d47c430f)
   )
   (wire (pts (xy 130.81 88.9) (xy 130.81 76.2))
     (stroke (width 0) (type default))
@@ -658,10 +658,6 @@
     (stroke (width 0) (type default))
     (uuid d2d3bd78-1033-423c-aeab-203c6fc6c3b9)
   )
-  (wire (pts (xy 128.27 101.6) (xy 128.27 111.76))
-    (stroke (width 0) (type default))
-    (uuid d35ec25e-638a-45b8-a239-add299b7ba02)
-  )
   (wire (pts (xy 173.99 105.41) (xy 176.53 105.41))
     (stroke (width 0) (type default))
     (uuid d81d26fe-2780-441d-bf26-ededd0286706)
@@ -669,6 +665,10 @@
   (wire (pts (xy 116.84 87.63) (xy 120.65 87.63))
     (stroke (width 0) (type default))
     (uuid dca56565-0f66-4d9f-8f34-0f72cb8c12e1)
+  )
+  (wire (pts (xy 125.73 101.6) (xy 125.73 109.22))
+    (stroke (width 0) (type default))
+    (uuid e00dd94d-6fc2-45fb-853b-0cd44f4e1a34)
   )
   (wire (pts (xy 148.59 119.38) (xy 148.59 120.65))
     (stroke (width 0) (type default))
@@ -828,7 +828,7 @@
     (uuid dc2347c6-aec1-4dc3-8de8-ced1fd1bc50f)
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_02x07_Row_Letter_Last") (at 128.27 96.52 90) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_02x07_Row_Letter_Last") (at 128.27 93.98 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b6b8a4c-bb5f-41f8-b56e-e6a6b81f0ec5)
     (property "Reference" "J1" (at 129.54 95.25 90)
@@ -837,28 +837,28 @@
     (property "Value" "Conn_02x07_Row_Letter_Last" (at 116.84 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "CommaPogo_Library:2x7_Pogo_Male" (at 128.27 96.52 0)
+    (property "Footprint" "CommaPogo_Library:2x7_Pogo_Male" (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 128.27 96.52 0)
+    (property "Datasheet" "~" (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f99ef250-f575-43c9-b171-b009aeef3a6b))
-    (pin "10" (uuid 32280b16-8114-447a-a165-ed99f417e87d))
-    (pin "11" (uuid cf3347c8-7846-4ca0-8223-0fa78b406836))
-    (pin "12" (uuid 9b98b975-e156-4165-a6e1-041944076a9a))
-    (pin "13" (uuid 0455d670-4e10-49dc-8429-4c305362bb3c))
-    (pin "14" (uuid 9a3380c6-39dd-410c-9cb0-89ebe01a6d83))
-    (pin "2" (uuid fa695490-1efe-42e0-a22b-76901ef742fb))
-    (pin "3" (uuid 150f4347-46a7-4943-99a4-d7249aec2f99))
-    (pin "4" (uuid fd263745-79bc-4f1a-b1b6-10185fbbe17e))
-    (pin "5" (uuid 7269ccd2-0acd-4fe0-8ebe-dd156a523326))
-    (pin "6" (uuid 73377262-564d-4b83-aa81-c04843f3c238))
-    (pin "7" (uuid 2baebd62-c31a-451e-a75d-a0819ec39d20))
-    (pin "8" (uuid b6bf55b7-aef6-4ccc-950e-776dc5fa6b99))
-    (pin "9" (uuid 716daddb-8249-4f9d-b8b2-c656cd4b9937))
+    (pin "1" (uuid 52deacc0-b874-424e-9014-311a0a6e50f5))
+    (pin "10" (uuid 0f052723-adf5-4cb1-b5e3-b2f2d41b76fa))
+    (pin "11" (uuid 8d1bb698-1958-4506-b0bc-7d9b61e4dce7))
+    (pin "12" (uuid 978eba9e-2a89-4209-9364-08857d1ce5ec))
+    (pin "13" (uuid f0baad92-476c-4868-876b-7d36bd8c85c3))
+    (pin "14" (uuid dd7594d2-dbd4-4690-a971-d8be5f42e4cc))
+    (pin "2" (uuid 47e177e3-d7f8-4023-8382-c9d797fe0125))
+    (pin "3" (uuid a7155398-b450-4bca-aa21-ae99a8d26465))
+    (pin "4" (uuid a37d8e89-8a55-46ea-a8b4-b308bd579edc))
+    (pin "5" (uuid 61ef1a9a-6fcb-477e-bb73-bc6edf87fb82))
+    (pin "6" (uuid 36ed7560-2a6a-45d7-9d5f-ea71651d24ba))
+    (pin "7" (uuid 8ff67daa-3607-417b-8579-966e7de4dbff))
+    (pin "8" (uuid d0599fb8-c95c-4f5d-be88-c45a93e2faec))
+    (pin "9" (uuid 4f3da5c9-8f4b-429f-af80-285670ba54bd))
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "J1") (unit 1)
         )
@@ -885,7 +885,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "H4") (unit 1)
         )
@@ -910,7 +910,7 @@
     )
     (pin "1" (uuid 3e401d0e-b208-4089-b9a8-c8f5dfd66e42))
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "#PWR01") (unit 1)
         )
@@ -935,7 +935,7 @@
     )
     (pin "1" (uuid 70a8ce5f-defb-4d74-9ce2-dd481afb4ee9))
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "#PWR02") (unit 1)
         )
@@ -959,7 +959,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "H2") (unit 1)
         )
@@ -983,7 +983,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "H3") (unit 1)
         )
@@ -1007,7 +1007,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "H1") (unit 1)
         )
@@ -1028,9 +1028,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 166.37 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C2894904" (at 167.64 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid b7d0c26e-a5f0-46bc-bb5b-25de59c254b1))
@@ -1058,7 +1055,7 @@
     (pin "B8" (uuid 2f1f9100-d529-4cae-8947-5c1fc6ca74c6))
     (pin "B9" (uuid 4b51a920-4886-454e-9809-2e50fa7f8918))
     (instances
-      (project "SaberCord_Copy_Male"
+      (project "female_connector"
         (path "/be2c8e72-e310-467f-9e4e-b384214483bd"
           (reference "J2") (unit 1)
         )
