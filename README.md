@@ -14,7 +14,7 @@ Preliminary BOM:
 | Colloqiual Name| Part No.    | Quantity | 
 | --------- | -------- | ------- | 
 | Pogo Pin  | 2906-4-15-20-75-14-11-0  | 14 |
-| USB-C Connector | USB4056-03-A | 2 |
+| USB-C Connector | HC005-1A1H1A103-0HR | 2 |
 | ASA Filament | n/a | <100g |
 | K&J Magnets | D83-N52 | 4 |
 |3M Adhesive | 3M™ VHB™ Tape 5952 | ~100mm<sup>2</sup> (~1.5in<sup>2</sup>)|
@@ -22,7 +22,7 @@ Preliminary BOM:
 - [x] Pogo Pins
 - [x] USB-C Connector
 - [x] Magnets
-- [ ] Adhesive - Order Placed 
+- [x] Adhesive
 
 ### Board Layout
 - [x] General layout
@@ -30,8 +30,10 @@ Preliminary BOM:
 - [x] Trace power calculations - Data analysis pending (2/15/24)
 - [x] PCB refinement 
 - [x] PCB Finalization
-- [x] PCB Ordered - Awaiting shipment 
-- [ ] PCB Delivered 
+- [x] PCB Ordered
+- [x] PCB Delivered
+- [ ] PCB Rework - Awaiting delivery
+- [ ] PCB Finalized
 
 ### C3X Windshield Mount
 - [x] PCB imported and modeled.
