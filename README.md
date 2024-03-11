@@ -5,7 +5,7 @@ I recently have come across a project for the Comma3X that utilizes pogo pins fo
 - Inexpensive
 - Open Source
 - 3D Printed
-- Angle adjustment (for imperfect mounting positions)
+- ~~Angle adjustment (for imperfect mounting positions)~~
     - This is more of a future goal. I'm first going to focus on getting the static mount correct.
 
 ## Progress Tracking
