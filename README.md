@@ -32,7 +32,8 @@ Preliminary BOM:
 - [x] PCB Finalization
 - [x] PCB Ordered
 - [x] PCB Delivered
-- [ ] PCB Rework - Awaiting delivery
+- [ ] PCB Rework One - Awaiting delivery
+- [ ] PCB Testing 
 - [ ] PCB Finalized
 
 ### C3X Windshield Mount
@@ -43,8 +44,9 @@ Preliminary BOM:
 - [x] Mount refinement
 - [x] Test-bed mounts printed
 - [x] Test-beds tested
-- [ ] Final mock-up printed - Awaiting pcb fitment 
-- [ ] Final refinement
+- [x] 'Gravimatrix' mock-up printed
+- [ ] 'Gravimatrix' refinement - Minor adjustments being made
+- [ ] Preliminary testing
 - [ ] Production unit trials
 
 ### Field Testing
