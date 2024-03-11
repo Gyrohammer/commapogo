@@ -55,3 +55,9 @@ Preliminary BOM:
 ## Specifications Pertaining to the Project
 - Comma3X Weight: 311g (11oz)
 - Power Usage: See the [summary spreadsheet](/power_data/summary.xlsx) for this data.
+
+# Seperate Updates
+
+I've gotten the first hand-built boards put together and making a solid connection! The most likely candidate for the mounting system will be the Gravimatrix design, as that is the most solid. But as of 3/10/24 I have a working prototype! Soldering USB-C connectors by hand is extremely difficult, who'da thunk it?
+
+These connectors will likely be soldered on from the manufacturer going forward, this will ensure consistency and quality at the cost of a few cents per board. A compromise I am more than willing to make.
