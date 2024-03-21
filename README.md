@@ -68,3 +68,7 @@ These connectors will likely be soldered on from the manufacturer going forward,
 ## March 19th, 2024
 
 PCB no worky! I believe I have some crosstalk/interference throughout the coupler. I'll be re-assessing and redesigning the PCB to hopefully counteract this and get a working connection.
+
+## March 21st, 2024
+
+This weekend I'll be using an oscilloscope to check signal integrity. Hopefully its simple as that, and adding a ground plane(s) will solve it. I had no idea what a ground-plane was until I asked for ideas/advice on the electrical engineering stack exchange. [Heres the thread where that was suggested!](https://electronics.stackexchange.com/questions/706633/usb-c-pogo-pin-coupler-troubleshooting).
