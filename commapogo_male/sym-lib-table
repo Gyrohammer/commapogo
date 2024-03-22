@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "USB_C_24P_Lettered")(type "KiCad")(uri "${KIPRJMOD}/USB_C_24P_Lettered.kicad_sym")(options "")(descr ""))
-)
