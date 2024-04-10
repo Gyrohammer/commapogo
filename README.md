@@ -72,3 +72,7 @@ PCB no worky! I believe I have some crosstalk/interference throughout the couple
 ## March 21st, 2024
 
 This weekend I'll be using an oscilloscope to check signal integrity. Hopefully its simple as that, and adding a ground plane(s) will solve it. I had no idea what a ground-plane was until I asked for ideas/advice on the electrical engineering stack exchange. [Heres the thread where that was suggested!](https://electronics.stackexchange.com/questions/706633/usb-c-pogo-pin-coupler-troubleshooting).
+
+## April 10th, 2024
+
+Oscilloscope readings showed little to no interference. Messages were coming and going normally, with solid definition. The second PCB design has run into the same error, in the same way. I will be doing some more testing including soldering wires directly from pad-to-pad in an attempt to isolate this to one component. If that doesnt work, I'll be doing one final re-design before putting this project on hold for a while.
