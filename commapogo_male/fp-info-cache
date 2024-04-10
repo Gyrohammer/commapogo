@@ -1,4 +1,4 @@
-23135271504220726
+23136984682798365
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6437,8 +6437,15 @@ GT-USB-7001C
 
 
 0
-1
-1
+30
+25
+CommaPogo_Library
+Pogo_2x7
+
+
+0
+14
+14
 CommaPogo_Library
 USB-C-SMD_HC005-1A1H1A103-0HR
 

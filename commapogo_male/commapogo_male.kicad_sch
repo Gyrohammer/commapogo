@@ -2590,7 +2590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 134.62 135.89 0)
 			(effects
 				(font
@@ -2794,7 +2794,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 118.11 135.89 0)
 			(effects
 				(font
@@ -2857,7 +2857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 134.62 128.27 0)
 			(effects
 				(font
@@ -2920,7 +2920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 118.11 128.27 0)
 			(effects
 				(font
@@ -2983,7 +2983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CommaPogo_Library:USB-C-SMD_HC005-1A1H1A103-0HR"
+		(property "Footprint" "CommaPogo_Library:GT-USB-7001C"
 			(at 166.37 95.25 0)
 			(effects
 				(font
