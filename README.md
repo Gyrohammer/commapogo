@@ -23,19 +23,32 @@ Preliminary BOM:
 - [x] USB-C Connector
 - [x] Magnets
 - [x] Adhesive
-
-### Board Layout
+#
+### Board Development
 - [x] General layout
 - [x] Trace routing
 - [x] Trace power calculations - Data analysis pending (2/15/24)
-- [x] PCB refinement 
-- [x] PCB Finalization
-- [x] PCB Ordered
-- [x] PCB Delivered
-- [ ] PCB Rework One - Awaiting delivery
-- [ ] PCB Testing 
-- [ ] PCB Finalized
+#### MKI Development
+- [x] Initial refinement (MKI)
+- [x] Finalization
+- [x] Ordered 
+- [x] Testing - Failed
+- [x] Troubleshooting/diagnosis begins for MKI
+- [x] Results finalized, head into next revision.  
+#### MKII Development
+- [x] Secondary Refinement (MKII)
+- [x] Ordered
+- [x] Testing - Failed
+- [x] Troubleshooting/diagnosis begins for MKII
+- [ ] Results finalized, head into next (final) revision.
+#### MKIII Development
+- [ ] Tertiary Refinement (MKIII)
+- [ ] Ordered
+- [ ] Testing
+- [ ] Troubleshooting/diagnosis begins for MKIII
+- [ ] Results finalized.
 
+#
 ### C3X Windshield Mount
 - [x] PCB imported and modeled.
 - [x] Male mount modeled
@@ -48,31 +61,31 @@ Preliminary BOM:
 - [ ] 'Gravimatrix' refinement - Minor adjustments being made
 - [ ] Preliminary testing
 - [ ] Production unit trials
-
+#
 ### Field Testing
 - [ ] Endurance testing (50 hours usage)
 - [ ] Vibration testing
 - [ ] Heat testing (7 day constant connectivity)
-
+#
 ## Specifications Pertaining to the Project
 - Comma3X Weight: 311g (11oz)
 - Power Usage: See the [summary spreadsheet](/power_data/summary.xlsx) for this data.
+#
+## Separate Updates
 
-# Separate Updates
-
-## March 10th, 2024
+### March 10th, 2024
 I've gotten the first hand-built boards put together and making a solid connection! The most likely candidate for the mounting system will be the Gravimatrix design, as that is the most solid. But as of 3/10/24 I have a working prototype! Soldering USB-C connectors by hand is extremely difficult, who'da thunk it?
 
 These connectors will likely be soldered on from the manufacturer going forward, this will ensure consistency and quality at the cost of a few cents per board. A compromise I am more than willing to make.
 
-## March 19th, 2024
+### March 19th, 2024
 
 PCB no worky! I believe I have some crosstalk/interference throughout the coupler. I'll be re-assessing and redesigning the PCB to hopefully counteract this and get a working connection.
 
-## March 21st, 2024
+### March 21st, 2024
 
 This weekend I'll be using an oscilloscope to check signal integrity. Hopefully its simple as that, and adding a ground plane(s) will solve it. I had no idea what a ground-plane was until I asked for ideas/advice on the electrical engineering stack exchange. [Heres the thread where that was suggested!](https://electronics.stackexchange.com/questions/706633/usb-c-pogo-pin-coupler-troubleshooting).
 
-## April 10th, 2024
+### April 10th, 2024
 
 Oscilloscope readings showed little to no interference. Messages were coming and going normally, with solid definition. The second PCB design has run into the same error, in the same way. I will be doing some more testing including soldering wires directly from pad-to-pad in an attempt to isolate this to one component. If that doesnt work, I'll be doing one final re-design before putting this project on hold for a while.
