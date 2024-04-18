@@ -89,3 +89,6 @@ This weekend I'll be using an oscilloscope to check signal integrity. Hopefully 
 ### April 10th, 2024
 
 Oscilloscope readings showed little to no interference. Messages were coming and going normally, with solid definition. The second PCB design has run into the same error, in the same way. I will be doing some more testing including soldering wires directly from pad-to-pad in an attempt to isolate this to one component. If that doesnt work, I'll be doing one final re-design before putting this project on hold for a while.
+
+### April 18th, 2024
+I finally got around to wiring the pads directly to one another for testing! Bad news is that it still doesnt work. I'm unsure, at this point, why this board doesnt work correctly. I feel as if I'm getting some sort of cross-talk between the connections. I'll be tring one more configuration, flipped, to see if that yields any other results. If this doesnt work then I have a backup plan which involves some consumer-hardware and a 3D printed case to house it. I'm hoping this custom solution works, as I put a lot of time into it, but if not then it is what it is. I should've gotten an EE degree, physics is useless here! Actually it was useful for the magnet force calculations.
