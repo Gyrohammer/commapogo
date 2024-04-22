@@ -40,6 +40,7 @@ Preliminary BOM:
 - [x] Ordered
 - [x] Testing - Failed
 - [x] Troubleshooting/diagnosis begins for MKII
+- [x] Project frozen.
 - [ ] Results finalized, head into next (final) revision.
 #### MKIII Development
 - [ ] Tertiary Refinement (MKIII)
@@ -58,6 +59,7 @@ Preliminary BOM:
 - [x] Test-bed mounts printed
 - [x] Test-beds tested
 - [x] 'Gravimatrix' mock-up printed
+- [x] Project frozen.
 - [ ] 'Gravimatrix' refinement - Minor adjustments being made
 - [ ] Preliminary testing
 - [ ] Production unit trials
@@ -92,3 +94,6 @@ Oscilloscope readings showed little to no interference. Messages were coming and
 
 ### April 18th, 2024
 I finally got around to wiring the pads directly to one another for testing! Bad news is that it still doesnt work. I'm unsure, at this point, why this board doesnt work correctly. I feel as if I'm getting some sort of cross-talk between the connections. I'll be tring one more configuration, flipped, to see if that yields any other results. If this doesnt work then I have a backup plan which involves some consumer-hardware and a 3D printed case to house it. I'm hoping this custom solution works, as I put a lot of time into it, but if not then it is what it is. I should've gotten an EE degree, physics is useless here! Actually it was useful for the magnet force calculations.
+
+### April 22nd, 2024
+Unfortunately it seems that I've hit the limit of my knowledge/ability with this project. I cannot get the communication to work correctly across the interlink. I have already spend about $400 in material on this project, putting together another PCB for order would only add to that and would likely not work. Not to mention the hours spent testing and designing the mounts/PCB revisions. This was still an excellent journey to go on! Maybe one day I'll revisit it. This repo does contain some useful info, though, such as power statistics and the weight of the unit, hopefully that will be useful to someone should they stumble across this.
